@@ -1,2 +1,2 @@
-print("Li wei")
-print("AAA")
+print("Li Wei")
+print("024")
