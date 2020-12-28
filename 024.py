@@ -1,1 +1,2 @@
-print ("li wei")
+print("Li wei")
+print("AAA")
